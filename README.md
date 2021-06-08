@@ -6,7 +6,7 @@ This program is coded to operate Winget easier. No virus whatsoever: unless modi
   3. No reuploading. Please do not reupload on Mediafire so I will know that how many people supporting me.
   4. Never modify with unsafe commands/code. Harming your computer is your own responsibility
   5. Program is completely safe. Uses set, title, echo, winget, if and goto commands only.
-  6. Winget installation required. https://github.com/microsoft/winget-cli\
+  6. Winget installation required. https://github.com/microsoft/winget-cli
   7. Winget is not my progress but I made a code to make easier use of winget.
   8. Donate via GCash Philippines: 0995 364 9018. Thanks :-).
 
